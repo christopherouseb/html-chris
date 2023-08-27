@@ -1,0 +1,31 @@
+body {
+    background-color:#e1f4f8;
+    background-size: 100%;
+    
+ }
+ div { 
+ background-color:#DEF5E5;  
+ padding: 20px;
+ margin: 0px;
+ }
+ img {
+ height: 100px;
+ }
+ h1 {
+ font-size: 562.5%;
+ color: #66BFBF;
+ font-family:'Sacramento', cursive;
+ margin: 50px auto 0 auto;
+ line-height: 2;
+ }
+ h2 {
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+ font-weight: normal
+ }
+ h3{
+    font-family:  'Montserrat', sans-serif;
+    color: #11999E;
+ }
+ 
+ 
